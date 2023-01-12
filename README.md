@@ -11,13 +11,18 @@ Time-blocks are color-coded to make it visually easier to tell if they are past 
 Once you save your to-do task, you will get a notification stating that the information
 has been saved.
 
+
 ## Features
 - jquery
 - local storage
 - dayjs
 
-## Demo
-![Alt text "images of deployed page for work day scheduler"](images/Screenshot%202022-12-16%20at%202.20.30%20PM.png)
+
+## Screenshots
+<img width="1413" alt="screenshot of work day scheduler" src="https://user-images.githubusercontent.com/115678318/212199792-a8be0f9a-8053-4b34-9670-3ce29817376e.png">
+<img width="1347" alt="screenshot of work day scheduler" src="https://user-images.githubusercontent.com/115678318/212199793-ce0d855d-1715-42d7-abca-05dd06fb7f98.png">
+<img width="1380" alt="image of deployed page for work day scheduler" src="https://user-images.githubusercontent.com/115678318/212200481-48ddd750-fc79-4c56-a42d-f33c93295f39.png">
+
 
 ## Deployment
 To see deployed site, click here:
