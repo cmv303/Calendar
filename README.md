@@ -16,8 +16,12 @@ has been saved.
 - local storage
 - dayjs
 
-## Demo
-![Alt text "images of deployed page for work day scheduler"](images/Screenshot%202022-12-16%20at%202.20.30%20PM.png)
+## Screenshots
+![Alt text "images of deployed page for work day scheduler"]
+
+<img width="1413" alt="Screenshot 2023-01-12 at 5 34 26 PM" src="https://user-images.githubusercontent.com/115678318/212199792-a8be0f9a-8053-4b34-9670-3ce29817376e.png">
+<img width="1347" alt="Screenshot 2023-01-12 at 5 34 39 PM" src="https://user-images.githubusercontent.com/115678318/212199793-ce0d855d-1715-42d7-abca-05dd06fb7f98.png">
+
 
 ## Deployment
 To see deployed site, click here:
