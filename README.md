@@ -26,6 +26,7 @@ has been saved.
 
 ## Deployment
 To see deployed site, click here:
+https://cmv303.github.io/Calendar/ 
 
 
 ## License
